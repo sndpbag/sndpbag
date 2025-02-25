@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/gZYKdn6n/githubbanner-ezgif-com-video-to-gif-converter.gif"  />
+  <img height="200" src="https://i.ibb.co/Rk8tkVdz/githubbanner-ezgif-com-video-to-gif-converter-2.gif"  />
 </div>
 
 
